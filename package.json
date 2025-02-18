@@ -1,0 +1,15 @@
+{
+	"name": "aki-blog",
+	"version": "0.1.0",
+	"private": true,
+	"engines": {
+		"node": "20.15.0"
+	},
+	"scripts": {
+		"format": "prettier --write './**/*'"
+	},
+	"devDependencies": {
+		"prettier": "3.5.1",
+		"prettier-plugin-sh": "0.14.0"
+	}
+}
