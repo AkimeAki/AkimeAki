@@ -1,1 +1,1 @@
-![ghost](https://aki.wtf/readme)
+![yeah](https://aki.wtf/readme)
